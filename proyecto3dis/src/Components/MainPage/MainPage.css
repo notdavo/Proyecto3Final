@@ -1,0 +1,11 @@
+.container {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .main-div {
+    width: 100%;
+    padding-top: 8%;
+    padding-bottom: 100%;
+    color: Black;
+  }
